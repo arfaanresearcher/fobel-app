@@ -1,0 +1,811 @@
+[
+  {
+    "ingredientId": "fava",
+    "ingredient": "Fava beans",
+    "marketUnitPrice": 4.69,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "garlic",
+    "ingredient": "Garlic",
+    "marketUnitPrice": 11,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "herbs",
+    "ingredient": "Mixed fresh herbs",
+    "marketUnitPrice": 42,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "yoghurt",
+    "ingredient": "Greek yoghurt",
+    "marketUnitPrice": 18,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "cucumber",
+    "ingredient": "Cucumber",
+    "marketUnitPrice": 10.95,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "eggplant",
+    "ingredient": "Eggplant",
+    "marketUnitPrice": 9,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "walnut",
+    "ingredient": "Walnuts",
+    "marketUnitPrice": 52,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "bread",
+    "ingredient": "Artisan bread",
+    "marketUnitPrice": 15,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "beef_tenderloin",
+    "ingredient": "Angus beef tenderloin",
+    "marketUnitPrice": 163.77,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "egg",
+    "ingredient": "Free-range egg",
+    "marketUnitPrice": 0.48,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "mustard",
+    "ingredient": "Dijon mustard",
+    "marketUnitPrice": 35,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pickles",
+    "ingredient": "House pickling vegetables",
+    "marketUnitPrice": 16,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "parmesan",
+    "ingredient": "Parmesan",
+    "marketUnitPrice": 72,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "beef_tendon",
+    "ingredient": "Beef tendon",
+    "marketUnitPrice": 35.02,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "baby_gem",
+    "ingredient": "Baby gem lettuce",
+    "marketUnitPrice": 26,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "anchovy",
+    "ingredient": "Anchovy fillets",
+    "marketUnitPrice": 66.95,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "padron",
+    "ingredient": "Padron peppers",
+    "marketUnitPrice": 42,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "labneh",
+    "ingredient": "Labneh",
+    "marketUnitPrice": 21,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "sesame",
+    "ingredient": "Sesame/togarashi blend",
+    "marketUnitPrice": 62,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "lamb_ribs",
+    "ingredient": "Lamb ribs",
+    "marketUnitPrice": 74.16,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "poblano",
+    "ingredient": "Poblano pepper",
+    "marketUnitPrice": 33,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "chermoula",
+    "ingredient": "Chermoula ingredients",
+    "marketUnitPrice": 28,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pumpkin_seed",
+    "ingredient": "Pumpkin seeds",
+    "marketUnitPrice": 38,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "chicken",
+    "ingredient": "Chicken breast",
+    "marketUnitPrice": 56.63,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "chipotle_date",
+    "ingredient": "Chipotle-date puree",
+    "marketUnitPrice": 34,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "malt_aioli",
+    "ingredient": "Malt vinegar aioli",
+    "marketUnitPrice": 25,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "oysters",
+    "ingredient": "Dibba Bay oyster",
+    "marketUnitPrice": 11.85,
+    "marketSource": "https://www.kibsons.com/en/product/seafood/prawns-shellfish/dibba-bay-live-oysters-oyslvaedb16sl1",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "prawns",
+    "ingredient": "Jumbo tiger prawns",
+    "marketUnitPrice": 88.07,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "crab",
+    "ingredient": "Blue swimmer crab",
+    "marketUnitPrice": 80.34,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "smoked_trout",
+    "ingredient": "Smoked trout",
+    "marketUnitPrice": 108.15,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "tuna_crudo",
+    "ingredient": "Sashimi tuna",
+    "marketUnitPrice": 131.84,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "clams",
+    "ingredient": "Clams",
+    "marketUnitPrice": 53.56,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "remoulade",
+    "ingredient": "Remoulade",
+    "marketUnitPrice": 28,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "onion",
+    "ingredient": "Onions",
+    "marketUnitPrice": 7.99,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "potato",
+    "ingredient": "Potatoes",
+    "marketUnitPrice": 8.29,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "butter",
+    "ingredient": "Butter",
+    "marketUnitPrice": 41,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "beef_mince",
+    "ingredient": "Angus beef mince",
+    "marketUnitPrice": 63.86,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "american_cheese",
+    "ingredient": "American cheese",
+    "marketUnitPrice": 36,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "beef_bacon",
+    "ingredient": "Smoked beef bacon",
+    "marketUnitPrice": 69.01,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "bun",
+    "ingredient": "Brioche bun",
+    "marketUnitPrice": 2.8,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "truffle_mayo",
+    "ingredient": "Truffle mayonnaise",
+    "marketUnitPrice": 49,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "lamb_chops",
+    "ingredient": "Lamb chops",
+    "marketUnitPrice": 91.67,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "roasted_pepper",
+    "ingredient": "Roasted peppers",
+    "marketUnitPrice": 20,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "salsa_verde",
+    "ingredient": "Salsa verde",
+    "marketUnitPrice": 29,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "shio_koji",
+    "ingredient": "Shio koji",
+    "marketUnitPrice": 55,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "rice",
+    "ingredient": "Rice",
+    "marketUnitPrice": 5.07,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "bbq_sauce",
+    "ingredient": "Mustard BBQ sauce",
+    "marketUnitPrice": 27,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "broccoli_rabe",
+    "ingredient": "Broccoli rabe",
+    "marketUnitPrice": 38,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "crab_bisque",
+    "ingredient": "Crab bisque",
+    "marketUnitPrice": 59.74,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "tuna_yellowfin",
+    "ingredient": "Yellowfin tuna loin",
+    "marketUnitPrice": 118.45,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "straw_potato",
+    "ingredient": "Shoestring potato",
+    "marketUnitPrice": 15,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "lemon",
+    "ingredient": "Lemon",
+    "marketUnitPrice": 9.5,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pizza_flour",
+    "ingredient": "Pizza flour",
+    "marketUnitPrice": 10,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "fior_latte",
+    "ingredient": "Fior di latte",
+    "marketUnitPrice": 54,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "ricotta",
+    "ingredient": "Ricotta",
+    "marketUnitPrice": 45,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pesto",
+    "ingredient": "Pesto ingredients",
+    "marketUnitPrice": 38,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pasta",
+    "ingredient": "Fusilloni pasta",
+    "marketUnitPrice": 15.99,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "tomato",
+    "ingredient": "San Marzano tomato",
+    "marketUnitPrice": 13.5,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "vodka",
+    "ingredient": "Vodka",
+    "marketUnitPrice": 79,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "basil",
+    "ingredient": "Basil",
+    "marketUnitPrice": 80,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "flour",
+    "ingredient": "All-purpose flour",
+    "marketUnitPrice": 2.55,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "sugar",
+    "ingredient": "Sugar",
+    "marketUnitPrice": 2.99,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "cream",
+    "ingredient": "Cream",
+    "marketUnitPrice": 28,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "coffee",
+    "ingredient": "Espresso coffee",
+    "marketUnitPrice": 82,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "lemon_curd",
+    "ingredient": "Lemon curd ingredients",
+    "marketUnitPrice": 35,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "icecream_vanilla",
+    "ingredient": "Vanilla ice cream",
+    "marketUnitPrice": 34,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "meringue",
+    "ingredient": "Meringue",
+    "marketUnitPrice": 24,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "brown_butter_crumb",
+    "ingredient": "Brown butter crumb",
+    "marketUnitPrice": 27,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "chocolate",
+    "ingredient": "Dark chocolate",
+    "marketUnitPrice": 61,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pistachio_icecream",
+    "ingredient": "Pistachio ice cream",
+    "marketUnitPrice": 49,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "raspberry",
+    "ingredient": "Raspberry",
+    "marketUnitPrice": 72,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "chickpea",
+    "ingredient": "Chickpeas",
+    "marketUnitPrice": 4.69,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "tahini",
+    "ingredient": "Tahini",
+    "marketUnitPrice": 34,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "olive_oil",
+    "ingredient": "Extra-virgin olive oil",
+    "marketUnitPrice": 49,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pita",
+    "ingredient": "Arabic pita bread",
+    "marketUnitPrice": 1.1,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "halloumi",
+    "ingredient": "Halloumi",
+    "marketUnitPrice": 54,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "feta",
+    "ingredient": "Feta",
+    "marketUnitPrice": 44,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "tomato_fresh",
+    "ingredient": "Vine tomato",
+    "marketUnitPrice": 10.5,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "mint",
+    "ingredient": "Fresh mint",
+    "marketUnitPrice": 70,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "parsley",
+    "ingredient": "Flat-leaf parsley",
+    "marketUnitPrice": 55,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "bulgur",
+    "ingredient": "Bulgur wheat",
+    "marketUnitPrice": 14,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "sumac",
+    "ingredient": "Sumac",
+    "marketUnitPrice": 62,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pomegranate",
+    "ingredient": "Pomegranate",
+    "marketUnitPrice": 19.5,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "lamb_shoulder",
+    "ingredient": "Lamb shoulder",
+    "marketUnitPrice": 64.89,
+    "marketSource": "https://www.carrefouruae.com/mafuae/en/c/F1670200",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "vine_leaves",
+    "ingredient": "Vine leaves",
+    "marketUnitPrice": 27,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "saffron",
+    "ingredient": "Saffron",
+    "marketUnitPrice": 4200,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "dates",
+    "ingredient": "Medjool dates",
+    "marketUnitPrice": 42,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pistachio",
+    "ingredient": "Pistachios",
+    "marketUnitPrice": 88,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "rosewater",
+    "ingredient": "Rosewater",
+    "marketUnitPrice": 26,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "avocado",
+    "ingredient": "Avocado",
+    "marketUnitPrice": 22,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "sourdough_loaf",
+    "ingredient": "Sourdough loaf",
+    "marketUnitPrice": 16,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "salmon",
+    "ingredient": "Smoked salmon",
+    "marketUnitPrice": 113.3,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "uae-retail-scrape"
+  },
+  {
+    "ingredientId": "cheddar",
+    "ingredient": "Aged cheddar",
+    "marketUnitPrice": 51,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "sandwich_bread",
+    "ingredient": "Sandwich bread",
+    "marketUnitPrice": 11,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "croissant",
+    "ingredient": "Butter croissant",
+    "marketUnitPrice": 4.2,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "pancake_mix",
+    "ingredient": "Buttermilk pancake mix",
+    "marketUnitPrice": 20,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "maple",
+    "ingredient": "Maple syrup",
+    "marketUnitPrice": 68,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "mixed_berries",
+    "ingredient": "Mixed berries",
+    "marketUnitPrice": 63,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "orange",
+    "ingredient": "Oranges (juicing)",
+    "marketUnitPrice": 8,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "milk",
+    "ingredient": "Fresh milk",
+    "marketUnitPrice": 4.77,
+    "observedAt": "2026-08-08",
+    "source": "ministry-of-economy"
+  },
+  {
+    "ingredientId": "spinach",
+    "ingredient": "Baby spinach",
+    "marketUnitPrice": 29,
+    "marketSource": "https://www.kibsons.com/en/fresh-produce",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  },
+  {
+    "ingredientId": "quinoa",
+    "ingredient": "Quinoa",
+    "marketUnitPrice": 32,
+    "marketSource": "https://www.spinneys.com/en-ae/catalogue/",
+    "observedAt": "2026-08-08",
+    "source": "moe-baseline"
+  }
+]

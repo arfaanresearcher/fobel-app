@@ -1,0 +1,17 @@
+{
+  "name": "Fobel — F&B Cost Intelligence",
+  "short_name": "Fobel",
+  "description": "UAE hotel F&B cost intelligence by INLABS — recipe costing, yield & VAT-aware, multi-outlet menu engineering.",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101410",
+  "theme_color": "#101410",
+  "categories": ["business", "food", "productivity"],
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
